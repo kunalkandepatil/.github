@@ -1,1 +1,1 @@
-![profile](assets/profile.svg)
+![profile](profile.svg)
