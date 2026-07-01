@@ -11,4 +11,4 @@
     .     '    .
 ```
 
-[about me](https://kunalkandepatil.me/) ✦ [unburn](https://unburn.tech/)
+[about me](https://kunalkandepatil.me/) ✦ [unbrn](https://unbrn.tech/)
